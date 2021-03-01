@@ -6,7 +6,7 @@ This is a Telegram URL Upload Bot!
 
 /help for more details..
 
-Made By @CyberBoyAyush 😎
+Made By @CyberBoyAyus 😎
 Made With 💗 In 🇮🇳"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
